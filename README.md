@@ -1,7 +1,7 @@
 # Telegram Crypto Bot Source php
 
 <p>Telegram Crypto Price Bot - Crypto price ticker bot</p>
-<h3>⚙️ <b>Fatures:</b></h3>
+<h3>⚙️ <b>Features:</b></h3>
 <ul>
 <li>Prices in real time</li>
 <li>Price search in all digital currencies</li>
